@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{566DBB28-62A5-EAAA-1874-530D957CD2E8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaveManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WaveManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

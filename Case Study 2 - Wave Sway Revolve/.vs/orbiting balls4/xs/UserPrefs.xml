@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{9ECCE729-FB0A-615F-41BA-E3E4F008A5CB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WaveBall.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WaveManager.cs" Line="52" Column="17" />
+      <File FileName="Assets/Scripts/LineSegment.cs" Line="38" Column="13" />
+      <File FileName="Assets/Scripts/Circle.cs" Line="42" Column="6" />
+      <File FileName="Assets/Scripts/WaveBall.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
